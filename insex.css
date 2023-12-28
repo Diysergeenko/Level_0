@@ -37,7 +37,7 @@ html {
   background-position: center;
   background-size: contain;
   border: 1px solid #d3d4dd;
-  -webkit-print-color-adjust: exact;
+  /* -webkit-print-color-adjust: exact; */
   position: relative;
   cursor: pointer;
 }
